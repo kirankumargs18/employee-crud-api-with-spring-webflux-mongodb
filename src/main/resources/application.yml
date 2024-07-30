@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: employee-reactive-crud-api
+
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/EmployeeDB
